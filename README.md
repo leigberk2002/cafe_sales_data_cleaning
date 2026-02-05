@@ -1,4 +1,4 @@
-# Cafe Sales Data Cleaning with MySQL Overview
+# Cafe Sales Data Cleaning with MySQL 
 
 ## Goal
 I took a raw, messy dataset of cafe sales records and built a SQL script to clean it up for analysis. The goal wasn't just to delete bad rows, but to rescue as much data as possible using logic and math.
