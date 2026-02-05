@@ -1,1 +1,1 @@
-# cafe_sales_data_cleaning
+# Data cleaning of a dirty cafe sales data.
