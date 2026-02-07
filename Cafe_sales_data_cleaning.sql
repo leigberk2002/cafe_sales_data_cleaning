@@ -279,6 +279,8 @@
 				WHERE `Location` IS NULL OR `Location` = '';
                 
 		-- Visualize it--
-			select *
-			from cafe_sales_clean
-			Order by 1;
+				SELECT *
+           	 	FROM cafe_sales_clean
+            	ORDER BY `Transaction ID`;
+
+--End
